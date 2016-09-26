@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'framd';
+    src: url('fonts/framd.eot');
+    src: url('fonts/framd.eot') format('embedded-opentype'),
+         url('fonts/framd.woff2') format('woff2'),
+         url('fonts/framd.woff') format('woff'),
+         url('fonts/framd.ttf') format('truetype'),
+         url('fonts/framd.svg#framd') format('svg');
+}

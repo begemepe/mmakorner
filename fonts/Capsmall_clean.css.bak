@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Capsmall_clean';
+    src: url('fonts/Capsmall_clean.eot');
+    src: url('fonts/Capsmall_clean.eot') format('embedded-opentype'),
+         url('fonts/Capsmall_clean.woff2') format('woff2'),
+         url('fonts/Capsmall_clean.woff') format('woff'),
+         url('fonts/Capsmall_clean.ttf') format('truetype'),
+         url('fonts/Capsmall_clean.svg#Capsmall_clean') format('svg');
+}
