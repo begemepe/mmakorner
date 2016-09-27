@@ -7,10 +7,15 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     font-family: "framd";
+    font-size: 15px;
 }
 
 .navbar-fixed-top .nav {
     padding: 15px 0;
+}
+
+.margin-botton-15 {
+    margin-bottom: 15px;
 }
 
 .navbar-fixed-top .navbar-brand {
